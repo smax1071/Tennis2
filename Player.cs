@@ -18,10 +18,10 @@ namespace Tennis
         }
         public void ScorePoint()
         {
-            if (Points < 3)
-            {
+            
+            
                  Points++;
-            }
+            
         }
     }
 }
